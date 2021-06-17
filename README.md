@@ -5,3 +5,10 @@ The player can perform four actions i.e., punch, kick, move forward, move backwa
 action will be performed by the player in the game.
 
 
+![](./Snapshots/1.PNG)
+
+
+![](./Snapshots/2.PNG)
+
+
+![](./Snapshots/3.PNG)
